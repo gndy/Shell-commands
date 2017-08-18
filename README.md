@@ -1,1 +1,1 @@
-##Notes for shell commands and scripts
+# Notes for shell commands and scripts
